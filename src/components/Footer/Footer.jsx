@@ -3,10 +3,10 @@ import './Footer.css';
 
 function Footer(props){
     return(
-        <div className="footer">
-            <footer>DCC Library</footer>
-        </div>
-    )
+        <footer className="footer">
+            <h4> Copyright © 2021 </h4>
+        </footer>
+    );
 }
 
 export default Footer;
